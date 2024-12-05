@@ -1,0 +1,18 @@
+## LIST ALL MESSAGES
+
+GET  http://localhost:3000/msg/message 
+
+### LIST ALL MESSAGES
+
+GET  http://localhost:3000/msg/777
+
+### LIST ALL MESSAGES
+
+POST  http://localhost:3000/users/signup
+Content-Type: application/json
+
+{
+    "email": "t@gmail.com",
+    "password": "salutcaCavavaazezer1.2."
+
+}
